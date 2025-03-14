@@ -14,3 +14,5 @@ Vanyllia enhances Minecraft’s core gameplay with subtle tweaks and quality-of-
 **Vanilla-Compatible**: Play with friends on vanilla servers or clients—no extra setup required.
 
 Perfect for purists who crave a _polished_ Minecraft, not a reinvented one.
+
+## **Modpack Download**: https://modrinth.com/modpack/vanyllia-polychrome/versions
